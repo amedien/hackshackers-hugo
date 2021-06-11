@@ -31,3 +31,4 @@ Are you heading to an event focused on information accuracy or news credibility?
 # Community
 
 Join the [MisinfoCon mailing list](http://eepurl.com/cBO3UX) for regular updates on the MisinfoCon community. For realtime updates, we have a [Slack](https://misinfocon.slack.com/) & [Twitter](https://twitter.com/misinfocon). For Slack, you’ll need an invitation - to get one, just shoot an email to misinfocon at gmail dot com with “Slack” in the subject line.
+
